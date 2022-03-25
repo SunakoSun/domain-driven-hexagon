@@ -1,5 +1,4 @@
 # Domain-Driven Hexagon
-Hi!
 
 **Check out my other repositories**:
 
